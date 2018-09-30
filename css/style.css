@@ -8,6 +8,11 @@ body {
 
 }
 
+.nav-item {
+  font-size: 20px;
+  
+}
+
 .container {
   background-color: #F5F5F5;
   border: 1px solid #708090;
